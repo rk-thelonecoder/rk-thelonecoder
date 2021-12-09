@@ -1,11 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Somnath Prasad</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ramakrushna Ghadei</h1>
 
-<h1 align="center"><img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/>NEWS FLASH: Check out my best app yet!!! <a href="https://desolate-beach-76075.herokuapp.com/">Typing Race</a><img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/></h1>
-
-<!-- - 👀 I’m interested in Web Development
+<!-- - 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any web development project
-- [![Gmail Badge](https://img.shields.io/badge/-somnathprasad559@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:somnathprasad@gmail.com)](mailto:somnathprasad@gmail.com) -->
+- [![Gmail Badge](https://img.shields.io/badge/-ramkrushnghadei5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramkrushnghadei5@gmail.com)](mailto:ramkrushnghadei5@gmail.com) -->
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=F7DE14&center=true&vCenter=true&width=500&lines=Hey%2C+I+can+read+your+mind;You+love+programming!"/>
