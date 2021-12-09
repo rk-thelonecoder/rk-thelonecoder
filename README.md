@@ -19,13 +19,8 @@
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow)![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=somnathPrasad)
 
-## Check out my ⚡Streaks⚡ and Stats: 📊 
-[![Ramakrushna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-lonecoder&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk-lonecoder&show_icons=true&locale=en&layout=compact" alt="rk-lonecoder" /></p>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rk-lonecoder&)"> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=rk-lonecoder&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rk-lonecoder&theme=blue-green&count_private=true)](https://git.io/streak-stats)
+
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
   <img src="https://github.com/somnathPrasad/somnathPrasad/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
