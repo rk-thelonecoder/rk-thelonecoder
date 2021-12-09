@@ -20,24 +20,21 @@
 ![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow)![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=somnathPrasad)
 
 ## Check out my ⚡Streaks⚡ and Stats: 📊 
-[![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnathPrasad&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somnathprasad&show_icons=true&locale=en&layout=compact" alt="somnathprasad" /></p>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=somnathPrasad&)"> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=somnathPrasad&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+[![Ramakrushna's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk-lonecoder&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rk-lonecoder&show_icons=true&locale=en&layout=compact" alt="rk-lonecoder" /></p>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rk-lonecoder&)"> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=rk-lonecoder&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=somnathPrasad&theme=blue-green&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rk-lonecoder&theme=blue-green&count_private=true)](https://git.io/streak-stats)
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
   <img src="https://github.com/somnathPrasad/somnathPrasad/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somnathprasad" alt="somnathprasad" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk-lonecoder" alt="rk-lonecoder" /></a> </p>
  -->
-### Some of my public repositories (not forks):
 
- **[Flash card app - somnathPrasad/flashcardlearn](https://github.com/somnathPrasad/flashcardlearn)**
-  <br/>
- **[My Profile Repo - somnathPrasad/somnathPrasad](https://github.com/somnathPrasad/somnathPrasad)**
+ 
   
   
 ## 🚀 Languages and Tools
