@@ -21,13 +21,7 @@
 
 
 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/somnathPrasad/somnathPrasad/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rk-lonecoder" alt="rk-lonecoder" /></a> </p>
- -->
 
  
   
